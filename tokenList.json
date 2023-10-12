@@ -17,7 +17,7 @@
             "symbol": "WG8C",
             "name": "Wrapped G8C",
             "decimals": 18,
-            "logoURI": ""
+            "logoURI": "https://raw.githubusercontent.com/G8Chain-org/token-list/main/assets/token.png"
         },
           {
             "chainId": 17171,
